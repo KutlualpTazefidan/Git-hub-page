@@ -7,7 +7,7 @@ Berlin based web dev with a degree in Aeronautical Engineering.
 * ⚙️ Looking for a Job 
 
 ## FrontEnd
-[<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e">](https://www.google.com/)
+<a href="placeholder.com" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e"></a>
 ## BackEnd
 
 ## Other Language
