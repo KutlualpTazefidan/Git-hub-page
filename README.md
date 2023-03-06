@@ -35,4 +35,4 @@ Berlin based web dev with a degree in Aeronautical Engineering. <br>
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0a66c2">](https://de.linkedin.com/in/kutlualp-tazefidan-9237193b) 
 
-<img  width="300" src="./media/interstellar.jpg">
+<img  width="300" src="./media/interstellar1.jpg">
