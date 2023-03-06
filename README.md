@@ -9,7 +9,7 @@ Berlin based web dev with a degree in Aeronautical Engineering.
 
 ## FrontEnd
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e">](https://www.javascript.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e">](https://www.javascript.com/) [<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776ab">](https://www.javascript.com/)
 
 ## BackEnd
 
