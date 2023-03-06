@@ -8,7 +8,7 @@ Berlin based web dev with a degree in Aeronautical Engineering.
 
 ## FrontEnd
 <a href="google.com" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e"></a>
-[<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e">](https://www.example.com)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e">](https://www.google.com-blank)
 ## BackEnd
 
 ## Other Language
