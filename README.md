@@ -1,9 +1,13 @@
 # Kutlualp Tazefidan 👨‍🔬 🧞  <br>
 Hello my friend! <br>
 Berlin based web dev with a degree in Aeronautical Engineering. <br>
-Expert in analytical composite calculation.
 
-Learning:
+<ins>Expert in </ins>
+* Analytical composite calculation
+* Material characterisation
+* Finite Element Simulation
+
+<ins>Learning: </ins>
 * 💻 JavaScript
 * 🎨 Blender
 * 🚙 Crash-Simulation
