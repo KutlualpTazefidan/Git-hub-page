@@ -11,7 +11,8 @@ Berlin based web dev with a degree in Aeronautical Engineering.
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e">](https://www.google.com)
 
-[![IMAGE ALT TEXT HERE](<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e">)([www.googl](https://www.google.com))
+<a href="https://www.google.com" target="_blank"><img src="https://cdn.simpleicons.org/javascript/f7df1e" 
+alt="IMAGE ALT TEXT HERE" width="32" height="32" border="10" /></a>
 
 ## BackEnd
 
