@@ -1,3 +1,22 @@
+# Kutlualp Tazefidan 🧞 🍦 👨‍🔬
+Hello my friend! <br>
+Berlin based web dev with a degree in Aeronautical Engineering.
+
+* 💻 Learning JavaScript
+* 🎨 Learning Blender
+* ⚙️ Looking for a Job 
+
+## FrontEnd
+<img height="32" width="32" src="https://cdn.simpleicons.org/icons/javascript.svg" />
+## BackEnd
+
+## Other Language
+
+## Tools
+
+## Let's keep in touch
+
+
 Following orders.
 First repo for my Spiced Academy Bootcamp
 md stands for marked down
