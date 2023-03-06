@@ -1,3 +1,4 @@
+<base target="_blank">
 # Kutlualp Tazefidan 🧞 🍦 👨‍🔬
 Hello my friend! <br>
 Berlin based web dev with a degree in Aeronautical Engineering.
