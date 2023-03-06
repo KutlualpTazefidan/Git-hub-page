@@ -16,6 +16,8 @@ alt="IMAGE ALT TEXT HERE" width="32" height="32" border="10" /></a>
 
 [soporte de Google](https://support.google.com/chrome/answer/95647?hl=es&amp;ref_topic=3421433%3F&target=_blank)
 
+<a href="https://support.google.com/chrome/answer/95647?hl=es&amp;ref_topic=3421433%3F" target="_blank"> soporte de Google</a> o la Ayuda del navegador.
+
 
 ## BackEnd
 
