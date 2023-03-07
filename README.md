@@ -1,6 +1,7 @@
 # Kutlualp Tazefidan 👨‍🔬 🧞  <br>
-Hello my friend! <br>
-Berlin based web dev with a degree in Aeronautical Engineering. <br>
+👋 Hello my dear! <br>
+
+I'm an aeronautical engineer from Berlin/Germany, who enjoys coding. <br>
 
 <ins>Expert in </ins>
 * Analytical composite calculation
@@ -12,17 +13,11 @@ Berlin based web dev with a degree in Aeronautical Engineering. <br>
 * 🎨 Blender
 * 🚙 Crash-Simulation
 
-## FrontEnd
+## Languages
 
-[<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e">](https://www.javascript.com/) 
+[<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/f7df1e">](https://www.javascript.com/) [<img height="32" width="32" hspace="32" src="https://cdn.simpleicons.org/python/3776ab">](https://www.python.org/)
 
-## BackEnd
-
-## Other Language
-
-[<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776ab">](https://www.python.org/)
-
-## Basic Knowledge 
+## Basic Knowledge in
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/fortran/734F96">](https://de.wikibooks.org/wiki/Fortran:_Fortran_95) [<img height="32" width="32" hspace="32" src="https://cdn.simpleicons.org/csharp/239120">](https://learn.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/)
 
