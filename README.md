@@ -34,8 +34,4 @@ or <br>
 
 <img  width="600" src="./media/interstellar2.jpg"> <br>
 
-<p align="center">	<!-- (optional) center align -->
-    <img src="https://pagespeed-insights.herokuapp.com?url=https://www.amazon.de/&categories=performance" width="XXXpx">
-</p>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KutlualpTazefidan&left_color=green&right_color=red)
